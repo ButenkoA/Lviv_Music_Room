@@ -1,0 +1,73 @@
+    .h1 {
+        color: #fff;
+        font-family: 'Audiowide', cursive;
+        font-size: 10rem;
+        text-align: center;
+    }
+    
+    body {
+        background-image: url(images/background1.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        scroll-behavior: inherit;
+    }
+    
+    h2 {
+        color: #4ecff4;
+        font-family: 'Audiowide', cursive;
+        font-size: 2rem;
+        background-color: #151444;
+        border: 2px solid #fff;
+        text-align: center;
+    }
+    
+    ul {
+        width: 90%;
+        display: flex;
+    }
+    
+    li {
+        display: inline-block;
+        font-family: 'Audiowide', cursive;
+        text-decoration: none;
+    }
+    
+    nav li a {
+        background-color: #8f1d98;
+        margin: 0 5px;
+        border: 1px solid #fff;
+        font-size: 2rem;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 0 50px;
+        color: #ffffff;
+        text-shadow: 0 1px 0 white;
+    }
+    
+    .h1h {
+        background-color: #151444;
+        margin: 400px 400px 300px 400px;
+        padding: 10px 10px 10px 10px;
+        border-radius: 10px;
+        font-family: 'Audiowide', cursive;
+        border: 2px solid #fff;
+        color: #fff;
+        text-align: center;
+    }
+    
+    .h2h {
+        background-color: #151444;
+        margin: 0px 400px 20px 400px;
+        padding: 10px 10px 10px 10px;
+        border-radius: 10px;
+        font-family: 'Audiowide', cursive;
+        border: 2px solid #fff;
+        color: #fff;
+        text-align: center;
+    }
+    
+    .partners {
+        align-self: center;
+        size: 20px;
+    }
